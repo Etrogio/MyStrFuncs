@@ -3,6 +3,9 @@
 
 #include <stdlib.h>
 
+/*!
+    This function returns length of array.
+*/
 size_t SizeofCharArray(char* a);
 
 /*!
